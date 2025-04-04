@@ -2,6 +2,8 @@
 Позволяет экспортировать список треков из плейлистов Яндекс Музыки  в тексовые форматы.
 ![Logotype](./docs/Screenshot_1.jpg)
 
+Вдохновлено <a href="https://github.com/aleqsanbr/YandexMusicExport">этим</a> и <a href="https://github.com/TuTAH1/YandexMusicExportWpf">этим</a> проектами.
+
 ## Особенности
 ● Графический интерфейс в стиле Я. Музыки  
 ● Экспорт в форматы: TXT, CSV, JSON  
